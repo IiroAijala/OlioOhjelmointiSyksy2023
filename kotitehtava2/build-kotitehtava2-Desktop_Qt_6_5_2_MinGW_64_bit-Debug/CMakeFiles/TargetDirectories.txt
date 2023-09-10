@@ -1,0 +1,7 @@
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/kotitehtava2.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava2/build-kotitehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
