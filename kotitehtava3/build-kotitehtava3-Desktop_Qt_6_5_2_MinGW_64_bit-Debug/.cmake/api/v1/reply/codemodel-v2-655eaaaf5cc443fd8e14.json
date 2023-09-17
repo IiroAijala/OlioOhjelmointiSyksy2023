@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2fc012038005fd444613.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kotitehtava3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kotitehtava3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kotitehtava3-Debug-7e6c45c3805d2c1130db.json",
+					"name" : "kotitehtava3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava3/build-kotitehtava3-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava3/kotitehtava3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
