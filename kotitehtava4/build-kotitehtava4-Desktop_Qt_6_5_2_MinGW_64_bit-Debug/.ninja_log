@@ -1,0 +1,26 @@
+# ninja log v5
+2	297	7172690438146618	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+2	244	7172679979957918	CMakeFiles/kotitehtava4.dir/asunto.cpp.obj	d3f0038d16a9f997
+7	318	7172690261390181	CMakeFiles/kotitehtava4.dir/kerros.cpp.obj	368d5ee1be4c2487
+297	372	7172690438879412	kotitehtava4.exe	9f99729db0da9c5a
+8	305	7172685433988363	CMakeFiles/kotitehtava4.dir/katutaso.cpp.obj	b3de2355688c963c
+3	335	7172694713809867	CMakeFiles/kotitehtava4.dir/kerrostalo.cpp.obj	10e21a7e68844f2
+335	417	7172694714568227	kotitehtava4.exe	726d15b835306d04
+20	394	7172698168632637	CMakeFiles/kotitehtava4.dir/katutaso.cpp.obj	b3de2355688c963c
+8	409	7172698168893249	CMakeFiles/kotitehtava4.dir/kerros.cpp.obj	368d5ee1be4c2487
+3	377	7172700226310001	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+7	345	7172701159966545	CMakeFiles/kotitehtava4.dir/kerros.cpp.obj	368d5ee1be4c2487
+11	365	7172701160126948	CMakeFiles/kotitehtava4.dir/katutaso.cpp.obj	b3de2355688c963c
+3	388	7172701160399385	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+7	365	7172702421673348	CMakeFiles/kotitehtava4.dir/katutaso.cpp.obj	b3de2355688c963c
+16	383	7172702421954310	CMakeFiles/kotitehtava4.dir/kerros.cpp.obj	368d5ee1be4c2487
+3	391	7172702422034391	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+9	415	7172708154332688	CMakeFiles/kotitehtava4.dir/kerrostalo.cpp.obj	10e21a7e68844f2
+4	424	7172708154417859	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+424	517	7172708155317302	kotitehtava4.exe	726d15b835306d04
+3	389	7172708717858195	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+390	468	7172708718609206	kotitehtava4.exe	726d15b835306d04
+6	439	7172712951688496	CMakeFiles/kotitehtava4.dir/kerros.cpp.obj	368d5ee1be4c2487
+9	446	7172712951778755	CMakeFiles/kotitehtava4.dir/katutaso.cpp.obj	b3de2355688c963c
+3	488	7172712952219648	CMakeFiles/kotitehtava4.dir/main.cpp.obj	fe2e13a5f162718e
+488	570	7172712952996807	kotitehtava4.exe	726d15b835306d04
