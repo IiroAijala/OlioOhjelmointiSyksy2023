@@ -1,0 +1,7 @@
+# ninja log v5
+1	605	7178887435239860	CMakeFiles/kotitehtava5.dir/katutaso.cpp.obj	9d56e35e921c0ad9
+30	629	7178887435481406	CMakeFiles/kotitehtava5.dir/kerrostalo.cpp.obj	fa5f0ba1c855f156
+22	645	7178887435621668	CMakeFiles/kotitehtava5.dir/asunto.cpp.obj	ea472c0e4bf1b765
+34	654	7178887435741828	CMakeFiles/kotitehtava5.dir/kerros.cpp.obj	128b4ce1b5b651e9
+13	662	7178887435812018	CMakeFiles/kotitehtava5.dir/main.cpp.obj	b96d1568961bd21b
+662	774	7178887436919321	kotitehtava5.exe	d31d8be22a7da7f6
