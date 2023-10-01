@@ -1,0 +1,10 @@
+# ninja log v5
+0	224	7178896013372195	CMakeFiles/lisatehtava.dir/main.cpp.obj	32d1b8a8e6a0698b
+226	287	7178896013969407	lisatehtava.exe	3c17238db410cd0a
+23	486	7178900656599808	CMakeFiles/lisatehtava.dir/devicetouchpad.cpp.obj	3ae36bae9c37d4e1
+12	493	7178900656659812	CMakeFiles/lisatehtava.dir/devicedisplay.cpp.obj	b13b38e75ea7ace3
+26	493	7178900656690077	CMakeFiles/lisatehtava.dir/mydeviceui.cpp.obj	496c54b5cd3e9d57
+7	501	7178900656710078	CMakeFiles/lisatehtava.dir/devicebaseclass.cpp.obj	c8d677b92d4e2f59
+3	503	7178900656740078	CMakeFiles/lisatehtava.dir/main.cpp.obj	32d1b8a8e6a0698b
+15	528	7178900657016441	CMakeFiles/lisatehtava.dir/devicemouse.cpp.obj	1069a1bb4fa1c0cf
+529	634	7178900658049560	lisatehtava.exe	7fa08e11829084ad

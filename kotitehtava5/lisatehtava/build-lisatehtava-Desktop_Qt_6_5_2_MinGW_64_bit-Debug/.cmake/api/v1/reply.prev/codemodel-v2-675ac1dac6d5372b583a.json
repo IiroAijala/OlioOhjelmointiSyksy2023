@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7f69386f8bb89ddfbbb3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lisatehtava",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lisatehtava::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lisatehtava-Debug-8e005b23f884513533c6.json",
+					"name" : "lisatehtava",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava5/lisatehtava/build-lisatehtava-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava5/lisatehtava/lisatehtava"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
