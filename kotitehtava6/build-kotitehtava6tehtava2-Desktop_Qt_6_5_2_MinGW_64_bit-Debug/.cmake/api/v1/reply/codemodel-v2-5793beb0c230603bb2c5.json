@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4eb732095c0be54bcad2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kotitehtava6tehtava2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kotitehtava6tehtava2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kotitehtava6tehtava2-Debug-88deaa5cd7143875494a.json",
+					"name" : "kotitehtava6tehtava2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kotitehtava6tehtava2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kotitehtava6tehtava2_autogen-Debug-7eef5d4c33d72f4f20a3.json",
+					"name" : "kotitehtava6tehtava2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kotitehtava6tehtava2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kotitehtava6tehtava2_autogen_timestamp_deps-Debug-e60a8c138d37247a195c.json",
+					"name" : "kotitehtava6tehtava2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/build-kotitehtava6tehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/kotitehtava6tehtava2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

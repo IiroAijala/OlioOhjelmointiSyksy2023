@@ -1,0 +1,13 @@
+# ninja log v5
+1	702	7184865383338538	kotitehtava6tehtava2_autogen/timestamp	892b314a8b9aac50
+1	702	7184865383338538	kotitehtava6tehtava2_autogen/mocs_compilation.cpp	892b314a8b9aac50
+1	702	7184865383338538	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/build-kotitehtava6tehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava6tehtava2_autogen/timestamp	892b314a8b9aac50
+1	702	7184865383338538	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/build-kotitehtava6tehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava6tehtava2_autogen/mocs_compilation.cpp	892b314a8b9aac50
+702	2388	7184865401748245	CMakeFiles/kotitehtava6tehtava2.dir/kotitehtava6tehtava2_autogen/mocs_compilation.cpp.obj	339c1376e9e02f5
+706	2400	7184865401868634	CMakeFiles/kotitehtava6tehtava2.dir/main.cpp.obj	59a6c3e57befd129
+11	220	7184865745882256	kotitehtava6tehtava2_autogen/timestamp	892b314a8b9aac50
+11	220	7184865745882256	kotitehtava6tehtava2_autogen/mocs_compilation.cpp	892b314a8b9aac50
+11	220	7184865745882256	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/build-kotitehtava6tehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava6tehtava2_autogen/timestamp	892b314a8b9aac50
+11	220	7184865745882256	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava6/build-kotitehtava6tehtava2-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava6tehtava2_autogen/mocs_compilation.cpp	892b314a8b9aac50
+229	1811	7184865761814974	CMakeFiles/kotitehtava6tehtava2.dir/mainwindow.cpp.obj	2e70b8fe195417ab
+1812	1962	7184865763269976	kotitehtava6tehtava2.exe	81e72da910e7584e
