@@ -1,0 +1,2 @@
+C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/EWIEGA46WW/moc_qtimer.cpp: C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/kotitehtava7/qtimer.h \
+  C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/moc_predefs.h

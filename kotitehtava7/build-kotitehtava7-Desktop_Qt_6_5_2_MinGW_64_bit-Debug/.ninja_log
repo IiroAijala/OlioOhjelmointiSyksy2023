@@ -1,0 +1,15 @@
+# ninja log v5
+1541	1674	7190983128072336	kotitehtava7.exe	e044796c704b4f5d
+598	2108	7190977447345641	CMakeFiles/kotitehtava7.dir/main.cpp.obj	e9660cbf99419f
+10	218	7190983113540560	kotitehtava7_autogen/timestamp	62b2c19c828fded8
+10	218	7190983113540560	kotitehtava7_autogen/mocs_compilation.cpp	62b2c19c828fded8
+10	218	7190983113540560	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/timestamp	62b2c19c828fded8
+602	2232	7190977448576674	CMakeFiles/kotitehtava7.dir/kotitehtava7_autogen/mocs_compilation.cpp.obj	fb716d9bc7d35fd9
+10	218	7190983113540560	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/mocs_compilation.cpp	62b2c19c828fded8
+229	1541	7190983126780198	CMakeFiles/kotitehtava7.dir/mainwindow.cpp.obj	11c60fac15a0d44f
+9	203	7190984766780186	kotitehtava7_autogen/timestamp	62b2c19c828fded8
+9	203	7190984766780186	kotitehtava7_autogen/mocs_compilation.cpp	62b2c19c828fded8
+9	203	7190984766780186	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/timestamp	62b2c19c828fded8
+9	203	7190984766780186	C:/Users/iiroa/Documents/GitHub/OlioOhjelmointiSyksy2023/kotitehtava7/build-kotitehtava7-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/kotitehtava7_autogen/mocs_compilation.cpp	62b2c19c828fded8
+212	1446	7190984779209147	CMakeFiles/kotitehtava7.dir/mainwindow.cpp.obj	11c60fac15a0d44f
+1447	1575	7190984780468677	kotitehtava7.exe	e044796c704b4f5d
